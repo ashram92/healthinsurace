@@ -1,0 +1,24 @@
+TransactionID,DateClaimed,DOB,FirstName,LastName,ItemID,ItemDescription,Cost,FundCoverAmount,PaymentMethod,ProviderCode
+10726,31/01/2017,28/03/1985,Boba, Fett,C43,Extended Consultation,120,80,CreditCard,P40
+10727,31/01/2017,28/03/1985,Boba, Fett,DEN47,Filling complex,220,120,CreditCard,P40
+10728,31/01/2017,28/03/1985,Boba, Fett,C47,Second appointment,60,42,CreditCard,P40
+10729,31/01/2017,28/03/1985,Boba, Fett,DEN991,Tooth extraction,195,120,CreditCard,P40
+10744,4/02/2017,19/09/2016,Darth,Sidius,C42,Consultation,80,45,CreditCard,P40
+10745,4/02/2017,19/09/2016,Darth,Sidius,DEN47,Filling simple,150,120,CreditCard,P40
+10730,31/01/2017,4/06/1995,Gial,Ackbar,C43,Extended Consultation,120,80,Cash,P40
+10732,1/02/2017,4/06/1995,Gial,Ackbar,DEN47,Filling complex,220,120,Cash,P40
+10731,31/01/2017,16/04/1974,Jango, Fett,C42,Consultation,80,45,CreditCard,P40
+10733,1/02/2017,3/11/2005,Luke,Skywalker,DEN992,Anaesthetic,250,,CreditCard,P40
+10734,1/02/2017,3/11/2005,Luke,Skywalker,DEN47,Filling complex,220,120,CreditCard,P40
+10735,1/02/2017,3/11/2005,Luke,Skywalker,DEN991,Tooth extraction,195,120,CreditCard,P40
+10736,1/02/2017,3/11/2005,Luke,Skywalker,DEN991,Tooth extraction,195,120,CreditCard,P40
+10746,1/02/2017,27/07/1961,Finn,Ren,C42,Consultation,80,45,CreditCard,P40
+10739,1/02/2017,30/11/1949,Leia,Organa,DEN47,Filling simple,150,120,Cash,P40
+10747,1/02/2017,19/04/1955,Obi-Wan,Kenobi,C43,Extended Consultation,120,80,Cash,P40
+10740,1/02/2017,21/11/1981,Obi-Wan,Kenobi,C42,Consultation,80,45,CreditCard,P40
+10737,1/02/2017,17/09/1964,Finn,Amidala,C42,Consultation,80,45,CreditCard,P40
+10741,1/02/2017,20/04/2010,R2,D2,C42,Consultation,80,45,CreditCard,P40
+10742,1/02/2017,31/01/1951,Sheev,Palpatine,C42,Consultation,80,45,CreditCard,P40
+10743,1/02/2017,31/01/1951,Sheev,Palpatine,C43,Extended Consultation,120,80,CreditCard,P40
+10748,1/02/2017,31/01/1951,Sheev,Palpatine,C47,Second appointment,60,42,CreditCard,P40
+10738,1/02/2017,8/09/2005,Obi-Wan,Kenobi,C43,Extended Consultation,120,80,CreditCard,P40

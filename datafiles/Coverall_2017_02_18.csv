@@ -1,0 +1,25 @@
+TransactionID,DateClaimed,FirstName,MiddleName,LastName,DateOfBirth,ItemID,ItemDesc,Cost,FundCover,PaymentType,Provider,HealthFund
+10726,31-Jan-17,Boba,, Fett,28/03/1985,C43,Extended Consultation,120,80,CreditCard,P91010,Coverall
+10726,31-Jan-17,Boba,, Fett,28/03/1985,DEN47,Filling complex,220,120,CreditCard,P91023,Coverall
+10726,31-Jan-17,Boba,, Fett,28/03/1985,C47,Second appointment,60,42,CreditCard,P91023,Coverall
+10726,31-Jan-17,Boba,, Fett,28/03/1985,DEN991,Tooth extraction,195,120,CreditCard,P91023,Coverall
+10726,4-Feb-17,Darth,,Sidius,19/09/2016,C42,Consultation,80,45,CreditCard,P91010,Coverall
+10726,4-Feb-17,Darth,Earl,Sidius,19/09/2016,DEN47,Filling simple,150,120,CreditCard,P91023,Coverall
+10726,31-Jan-17,Gial,,Ackbar,4/06/1995,C43,Extended Consultation,120,80,Cash,P91023,Coverall
+10726,1-Feb-17,Gial,,Ackbar,4/06/1995,DEN47,Filling complex,220,120,Cash,P91023,Coverall
+10726,31-Jan-17,Jango,, Fett,16/04/1974,C42,Consultation,80,45,CreditCard,P91010,Coverall
+10726,1-Feb-17,Jar,Jar,Binks,3/11/2005,DEN992,Anaesthetic,250,,CreditCard,P41,Coverall
+10726,1-Feb-17,Jar,Jar,Binks,3/11/2005,DEN47,Filling complex,220,120,CreditCard,P91023,Coverall
+10726,1-Feb-17,Jar,Jar,Binks,3/11/2005,DEN991,Tooth extraction,195,120,CreditCard,P91023,Coverall
+10726,1-Feb-17,Jar,Jar,Binks,3/11/2005,DEN991,Tooth extraction,195,120,CreditCard,P91023,Coverall
+10726,4-Feb-17,Kylo,,Ren,27/07/1961,C42,Consultation,80,45,CreditCard,P91010,Coverall
+10726,3-Feb-17,Leia,,Organa,30/11/1949,DEN47,Filling simple,150,120,Cash,P91023,Coverall
+10726,5-Feb-17,Luke,,Skywalker,19/04/1955,C43,Extended Consultation,120,80,Cash,P91023,Coverall
+10726,5-Feb-17,Yoda,,,21/11/1981,C42,Consultation,80,45,CreditCard,P91023,Coverall
+10726,1-Feb-17,Padme,,Amidala,17/09/1964,C42,Consultation,80,45,CreditCard,P91023,Coverall
+10726,1-Feb-17,,,Snoke,20/04/2010,C42,Consultation,80,45,CreditCard,P91023,Coverall
+10726,3-Feb-17,Sheev,,Palpatine,31/01/1951,C42,Consultation,80,45,CreditCard,P91023,Coverall
+10726,3-Feb-17,Sheev,,Palpatine,31/01/1951,C43,Extended Consultation,120,80,CreditCard,P91023,Coverall
+10726,10-Feb-17,Sheev,,Palpatine,31/01/1951,C47,Second appointment,60,42,CreditCard,P91023,Coverall
+10726,1-Feb-17,Wedge,,Antilles,8/09/2005,C43,Extended Consultation,120,80,CreditCard,P91023,Coverall
+,,,,,,DEN92.1,Cleam and flouride,100,90,91,80,Coverall
