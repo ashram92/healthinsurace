@@ -259,12 +259,12 @@ if __name__ == '__main__':
 
     # ABC Converter
     abc_converter = ABCConverter()
-    abc_converter.convert('/Users/ashwinramesh/Projects/lorica_challenge/'
-                          'datafiles/ABC_2017_02_01.csv', 'ABC-normalised')
-    print('\n\n\n\n')
+    abc_converter.convert('../datafiles/ABC_2017_02_01.csv', 'ABC-normalised')
+
+    print('\n\n')
+
     # ABC Converter
     coverall_converter = CoverallConverter()
-    coverall_converter.convert('/Users/ashwinramesh/Projects/lorica_challenge'
-                               '/datafiles/Coverall_2017_02_18.csv',
+    coverall_converter.convert('../datafiles/Coverall_2017_02_18.csv',
                                'Coverall-normalised')
 
