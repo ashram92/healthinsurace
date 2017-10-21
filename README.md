@@ -11,6 +11,7 @@ The code uses no 3rd party libraries.
 1. Install some version of Python3. I am using 3.5.3
 2. Run `python data_normaliser.py` from the `lorica_challenge` folder
 3. Output files will appear in the root folder. Copies of the output can be found in `lorica_challenge/outputfiles`
+4. Unittests - `python -m unittest`
 
 ## Command Line Output 
 
