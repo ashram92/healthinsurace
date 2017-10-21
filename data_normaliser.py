@@ -91,10 +91,9 @@ class TransactionsCSVWriter:
                     transaction_dict = self.dictify_transaction(transaction)
                     writer.writerow(transaction_dict)
                 except Exception as e:
-                    print(e)
                     logger.error(e)
 
-        print('CSV file created - {}'.format(full_file_name))
+        logger.info('CSV file created - {}'.format(full_file_name))
 
 
 class AbstractCustomerToTransactionCSVConverter:
@@ -124,7 +123,7 @@ class AbstractCustomerToTransactionCSVConverter:
 
     def build_transaction_id(self, row, fieldname='TransactionID'):
         try:
-            return row[fieldname]
+            return int(row[fieldname])
         except Exception:
             raise ValueError('Invalid value for {}'.format(fieldname))
 
@@ -168,7 +167,7 @@ class AbstractCustomerToTransactionCSVConverter:
         return self._build_string_value(row, fieldname)
 
     def convert_row_to_transaction(self, row) -> Transaction:
-        raise NotImplementedError
+        raise NotImplementedError  # noqa
 
     def convert_raw_csv_to_transaction(self, file_path) -> List[Transaction]:
         """This method will convert a raw csv file into a
@@ -229,6 +228,8 @@ class CoverallConverter(AbstractCustomerToTransactionCSVConverter):
         if row['MiddleName']:
             return '{} {}'.format(first_name, row['MiddleName'])
 
+        return first_name
+
     def convert_row_to_transaction(self, row) -> Transaction:
         return Transaction(
             transaction_id=self.build_transaction_id(row),
@@ -248,11 +249,11 @@ class CoverallConverter(AbstractCustomerToTransactionCSVConverter):
         )
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':  # pragma: no cover
 
     # Setup Logger
     ch = logging.StreamHandler()
-    ch.setLevel(logging.WARNING)
+    ch.setLevel(logging.INFO)
     formatter = logging.Formatter('%(levelname)s - %(message)s')
     ch.setFormatter(formatter)
     logger.addHandler(ch)
