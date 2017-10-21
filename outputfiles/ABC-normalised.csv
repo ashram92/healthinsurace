@@ -1,0 +1,23 @@
+TransactionID,DateClaimed,FirstName,LastName,DateOfBirth,ItemID,ItemDescription,Cost,FundCover,PaymentMethod,Provider,HealthFund
+10726,31-Jan-17,Boba, Fett,28/03/1985,C43,Extended Consultation,120.0,80.0,CreditCard,P40,ABC
+10727,31-Jan-17,Boba, Fett,28/03/1985,DEN47,Filling complex,220.0,120.0,CreditCard,P40,ABC
+10728,31-Jan-17,Boba, Fett,28/03/1985,C47,Second appointment,60.0,42.0,CreditCard,P40,ABC
+10729,31-Jan-17,Boba, Fett,28/03/1985,DEN991,Tooth extraction,195.0,120.0,CreditCard,P40,ABC
+10744,04-Feb-17,Darth,Sidius,19/09/2016,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10745,04-Feb-17,Darth,Sidius,19/09/2016,DEN47,Filling simple,150.0,120.0,CreditCard,P40,ABC
+10730,31-Jan-17,Gial,Ackbar,04/06/1995,C43,Extended Consultation,120.0,80.0,Cash,P40,ABC
+10732,01-Feb-17,Gial,Ackbar,04/06/1995,DEN47,Filling complex,220.0,120.0,Cash,P40,ABC
+10731,31-Jan-17,Jango, Fett,16/04/1974,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10734,01-Feb-17,Luke,Skywalker,03/11/2005,DEN47,Filling complex,220.0,120.0,CreditCard,P40,ABC
+10735,01-Feb-17,Luke,Skywalker,03/11/2005,DEN991,Tooth extraction,195.0,120.0,CreditCard,P40,ABC
+10736,01-Feb-17,Luke,Skywalker,03/11/2005,DEN991,Tooth extraction,195.0,120.0,CreditCard,P40,ABC
+10746,01-Feb-17,Finn,Ren,27/07/1961,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10739,01-Feb-17,Leia,Organa,30/11/1949,DEN47,Filling simple,150.0,120.0,Cash,P40,ABC
+10747,01-Feb-17,Obi-Wan,Kenobi,19/04/1955,C43,Extended Consultation,120.0,80.0,Cash,P40,ABC
+10740,01-Feb-17,Obi-Wan,Kenobi,21/11/1981,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10737,01-Feb-17,Finn,Amidala,17/09/1964,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10741,01-Feb-17,R2,D2,20/04/2010,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10742,01-Feb-17,Sheev,Palpatine,31/01/1951,C42,Consultation,80.0,45.0,CreditCard,P40,ABC
+10743,01-Feb-17,Sheev,Palpatine,31/01/1951,C43,Extended Consultation,120.0,80.0,CreditCard,P40,ABC
+10748,01-Feb-17,Sheev,Palpatine,31/01/1951,C47,Second appointment,60.0,42.0,CreditCard,P40,ABC
+10738,01-Feb-17,Obi-Wan,Kenobi,08/09/2005,C43,Extended Consultation,120.0,80.0,CreditCard,P40,ABC

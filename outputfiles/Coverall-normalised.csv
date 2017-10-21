@@ -1,0 +1,21 @@
+TransactionID,DateClaimed,FirstName,LastName,DateOfBirth,ItemID,ItemDescription,Cost,FundCover,PaymentMethod,Provider,HealthFund
+10726,31-Jan-17,, Fett,28/03/1985,C43,Extended Consultation,120.0,80.0,CreditCard,P91010,Coverall
+10726,31-Jan-17,, Fett,28/03/1985,DEN47,Filling complex,220.0,120.0,CreditCard,P91023,Coverall
+10726,31-Jan-17,, Fett,28/03/1985,C47,Second appointment,60.0,42.0,CreditCard,P91023,Coverall
+10726,31-Jan-17,, Fett,28/03/1985,DEN991,Tooth extraction,195.0,120.0,CreditCard,P91023,Coverall
+10726,04-Feb-17,,Sidius,19/09/2016,C42,Consultation,80.0,45.0,CreditCard,P91010,Coverall
+10726,04-Feb-17,Darth Earl,Sidius,19/09/2016,DEN47,Filling simple,150.0,120.0,CreditCard,P91023,Coverall
+10726,31-Jan-17,,Ackbar,04/06/1995,C43,Extended Consultation,120.0,80.0,Cash,P91023,Coverall
+10726,01-Feb-17,,Ackbar,04/06/1995,DEN47,Filling complex,220.0,120.0,Cash,P91023,Coverall
+10726,31-Jan-17,, Fett,16/04/1974,C42,Consultation,80.0,45.0,CreditCard,P91010,Coverall
+10726,01-Feb-17,Jar Jar,Binks,03/11/2005,DEN47,Filling complex,220.0,120.0,CreditCard,P91023,Coverall
+10726,01-Feb-17,Jar Jar,Binks,03/11/2005,DEN991,Tooth extraction,195.0,120.0,CreditCard,P91023,Coverall
+10726,01-Feb-17,Jar Jar,Binks,03/11/2005,DEN991,Tooth extraction,195.0,120.0,CreditCard,P91023,Coverall
+10726,04-Feb-17,,Ren,27/07/1961,C42,Consultation,80.0,45.0,CreditCard,P91010,Coverall
+10726,03-Feb-17,,Organa,30/11/1949,DEN47,Filling simple,150.0,120.0,Cash,P91023,Coverall
+10726,05-Feb-17,,Skywalker,19/04/1955,C43,Extended Consultation,120.0,80.0,Cash,P91023,Coverall
+10726,01-Feb-17,,Amidala,17/09/1964,C42,Consultation,80.0,45.0,CreditCard,P91023,Coverall
+10726,03-Feb-17,,Palpatine,31/01/1951,C42,Consultation,80.0,45.0,CreditCard,P91023,Coverall
+10726,03-Feb-17,,Palpatine,31/01/1951,C43,Extended Consultation,120.0,80.0,CreditCard,P91023,Coverall
+10726,10-Feb-17,,Palpatine,31/01/1951,C47,Second appointment,60.0,42.0,CreditCard,P91023,Coverall
+10726,01-Feb-17,,Antilles,08/09/2005,C43,Extended Consultation,120.0,80.0,CreditCard,P91023,Coverall
